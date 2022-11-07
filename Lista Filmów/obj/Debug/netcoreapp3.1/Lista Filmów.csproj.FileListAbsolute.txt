@@ -1,0 +1,16 @@
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\bin\Debug\netcoreapp3.1\Lista Filmów.exe
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\bin\Debug\netcoreapp3.1\Lista Filmów.deps.json
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\bin\Debug\netcoreapp3.1\Lista Filmów.runtimeconfig.json
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\bin\Debug\netcoreapp3.1\Lista Filmów.runtimeconfig.dev.json
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\bin\Debug\netcoreapp3.1\Lista Filmów.dll
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\bin\Debug\netcoreapp3.1\Lista Filmów.pdb
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\obj\Debug\netcoreapp3.1\Lista Filmów.csproj.AssemblyReference.cache
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\obj\Debug\netcoreapp3.1\Lista_Filmów.Form1.resources
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\obj\Debug\netcoreapp3.1\Lista Filmów.csproj.GenerateResource.cache
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\obj\Debug\netcoreapp3.1\Lista Filmów.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\obj\Debug\netcoreapp3.1\Lista Filmów.AssemblyInfoInputs.cache
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\obj\Debug\netcoreapp3.1\Lista Filmów.AssemblyInfo.cs
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\obj\Debug\netcoreapp3.1\Lista Filmów.csproj.CoreCompileInputs.cache
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\obj\Debug\netcoreapp3.1\Lista Filmów.dll
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\obj\Debug\netcoreapp3.1\Lista Filmów.pdb
+C:\Users\HARDPC\Desktop\Lista Filmów\Lista Filmów\Lista Filmów\obj\Debug\netcoreapp3.1\Lista Filmów.genruntimeconfig.cache
